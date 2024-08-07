@@ -1,20 +1,19 @@
 {
   "name": "git-helper",
   "version": "1.0.0",
-  "description": "",
+  "description": "A CLI tool to automate Git commands",
   "main": "index.js",
+  "bin": {
+    "go": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-    
   },
-  "keywords": [],
+  "keywords": [
+    "git",
+    "cli",
+    "automation"
+  ],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "commander": "^12.1.0"
-  },
-  "bin": {
-  "go": "./index.js"
-}
-
+  "license": "ISC"
 }
