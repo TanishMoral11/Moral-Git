@@ -1,7 +1,7 @@
 {
   "name": "moralgit",
-  "version": "1.0.3",
-  "description": "A CLI tool to automate Git commands",
+  "version": "1.1.0",
+  "description": "A powerful CLI tool to automate Git commands",
   "main": "index.js",
   "bin": {
     "gitgo": "./index.js"
@@ -17,7 +17,6 @@
   "author": "Tanish Moral <tanishmoral07@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "commander": "^12.1.0",
-    "moralgit": "^1.0.3"
+    "commander": "^12.1.0"
   }
 }
