@@ -4,7 +4,7 @@
   "description": "A powerful CLI tool to automate Git commands",
   "main": "index.js",
   "bin": {
-    "gitgo": "./index.js"
+    "mg": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

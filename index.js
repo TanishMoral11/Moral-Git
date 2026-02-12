@@ -23,7 +23,7 @@ function isGitRepo() {
 }
 
 program
-  .name('gitgo')
+  .name('mg')
   .description('A CLI tool to automate Git commands — by Tanish Moral')
   .version('1.1.0');
 
